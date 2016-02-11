@@ -1,7 +1,7 @@
 name: Clemens Frede
 favicon: null
-layout_spectrum: 0.30102542811073363
-typography_spectrum: 0.6841916716657579
+layout_spectrum: 0.18381
+typography_spectrum: 0.82705
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.26666019880212843
-  lightness: 0.6375909405760467
+  brandStrength: 0.1875
+  lightness: 0.75
   saturation: 0.7290212705265731
-  rhythmicContrast: 0.5449717123992741
+  rhythmicContrast: 0.25
 purpose: []
