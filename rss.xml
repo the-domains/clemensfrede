@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Clemens Frede]]></title>
-        <description><![CDATA[Clemens Frede]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hang with me.]]></title>
+        <description><![CDATA[Hang with me.]]></description>
+        <link>https://thegrid.ai/clemensfrede/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 09:43:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 10:14:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clemensfrede/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cool stuff]]></title>
+            <description><![CDATA[<article><h1>Cool stuff</h1><p>So I am still testing this site and creating random posts to see what it looks like. Hang in there. Life is good. So I am still testing this site and creating random posts to see what it looks like. Hang in there. Life is good. So I am still testing this site and creating random posts to see what it looks like. Hang in there. Life is good. So I am still testing this site and creating random posts to see what it looks like. Hang in there. Life is good. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e7f250-73e7-4859-bd36-15dba61afdd7.JPG"></article>]]></description>
+            <link>https://thegrid.ai/clemensfrede/cool-stuff/index.html</link>
+            <guid isPermaLink="false">573781b1-0a12-4e63-a5e9-72392b05b2f8</guid>
+            <pubDate>Thu, 11 Feb 2016 10:13:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'm here.]]></title>
-            <description><![CDATA[<article><h1>I'm here.</h1><p>Crazy. Ha. Testing this new site. Just entered the grid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cf52326-4f87-4562-8c23-306e5766619b.JPG"></article>]]></description>
-            <link>undefinedim-here/index.html</link>
+            <description><![CDATA[<article><h1>I'm here.</h1><p>Crazy. Ha. Testing this new site. Just entered the grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/568cffae92ff4a0aa3751a442476268d08b63e24.jpg"></article>]]></description>
+            <link>https://thegrid.ai/clemensfrede/im-here/index.html</link>
             <guid isPermaLink="false">903a27a2-ce93-4c8d-af2c-f3aa97a83806</guid>
             <pubDate>Thu, 11 Feb 2016 09:41:59 GMT</pubDate>
         </item>
