@@ -1,5 +1,8 @@
+name: Clemens Frede
+favicon: null
+layout_spectrum: 0.94937
+typography_spectrum: 0.82705
 title: Hang with me.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,25 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5212766
-  brandStrength: 0.2191489
-  lightness: 0.6531915
-  brandColors:
-    - '#fffaf7'
-    - '#a2b2af'
-    - '#252910'
-    - '#5b6823'
-    - '#8d9446'
-  rhythmicContrast: 0.506383
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Clemens Frede
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.82705
-layout_spectrum: 0.94937
+color:
+  brandColors:
+    - '#fffaf7'
+    - '#a2b2af'
+    - '#b3bfbc'
+  brandStrength: 0.2191489
+  lightness: 0.6531915
+  saturation: 0.5212766
+  rhythmicContrast: 0.506383
+purpose: []
