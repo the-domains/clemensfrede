@@ -1,6 +1,6 @@
 name: Clemens Frede
 favicon: null
-layout_spectrum: 0.18381
+layout_spectrum: 0.94937
 typography_spectrum: 0.82705
 title: Hang with me.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#252910'
     - '#5b6823'
     - '#8d9446'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0.7290212705265731
-  rhythmicContrast: 0.25
+  brandStrength: 0.875
+  lightness: 0.875
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
